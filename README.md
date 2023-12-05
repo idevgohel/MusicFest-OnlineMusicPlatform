@@ -1,4 +1,4 @@
-# Minor_Project
+# MusiFest - Online Music Platform
 
 HOME_PAGE
 
