@@ -1,4 +1,4 @@
-# MusiFest - Online Music Platfor
+# MusiFest - Online Music Platform
 
 Home Page
 
